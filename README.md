@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kydogg
 - 👀 I’m interested in web development, react, game develpment and filmmaking 
-- 🌱 I’m currently learning reactJS and game development
+- 🌱 I’m currently learning reactJS and iOS development
 - 📫 How to reach me ... send me an email @itskydogg 
 
 <!---
