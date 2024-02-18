@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kydogg
 - 👀 I’m the Founder of Daedalus Designs
-- 🌱 I’m currently learning Next.js, Ruby on Rails, and Swift for iOS and macOs applications.
+- 🌱 I’m currently learning full stack web development using MERN and Swift for iOS and macOs applications.
 - 📫 How to reach me ... send me an email @ contact@daedalusdigitalsolutions.tech 
 
 <!---
